@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wonder.gym",
+      "sha256_cert_fingerprints": [
+        "33:84:3C:FC:5A:71:3C:CE:B3:52:4F:F5:79:68:22:F5:A7:B4:EB:DC:5A:93:BF:C5:87:30:F8:C9:1A:60:78:A4"
+      ]
+    }
+  }
+]
